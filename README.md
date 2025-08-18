@@ -1,6 +1,6 @@
 ### Olá eu sou rei_Arthur jpg 👑
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-5091CD?style=for-the-badge&logo==white=https://portfolio.com/)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-5091CD?style=for-the-badge&logo==white=https://portfolio.com/)]([https://portfolio.com](https://github.com/ReiArthurjpg))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://portfolio.com/)](https://portfolio.com)
 
 ![ReiArthurjpg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReiArthurjpg&show_icons=true&theme=cobalt)
