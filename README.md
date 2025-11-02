@@ -33,5 +33,7 @@
     <hr>
     <img align="center" alt="React" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
     
 </div>
