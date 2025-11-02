@@ -17,5 +17,6 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
     <img align="center" alt="React" src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     
 </div>
