@@ -23,5 +23,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <hr>
+    <img align="center" alt="React" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     
 </div>
