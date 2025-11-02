@@ -36,5 +36,6 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     
 </div>
